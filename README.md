@@ -53,7 +53,8 @@ This project leverages the following technologies for data analysis and visualiz
 - ⭐ **Supplier Ratings**: Rated suppliers based on **delivery time, product quality, and availability**.
 
 ## 📊 Power BI Dashboard Preview
-![Dashboard Screenshot](your_dashboard_image_link_here)
+![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/d1a6981d-0e48-4ee9-9e6d-fc0965229e8d)
+)
 
 ## 📂 Project Structure
 The repository is organized as follows:
