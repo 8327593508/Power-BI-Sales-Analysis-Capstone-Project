@@ -70,7 +70,7 @@ The repository is organized as follows:
 ```
 
 ## 📥 Dataset Information
-The dataset is sourced from the **Northwind Traders database**, which includes transactional sales data, customer information, order details, and product data. You can find the dataset [here](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs).
+The dataset is sourced from the **Northwind Traders database**, which includes transactional sales data, customer information, order details, and product data. You can find the dataset [here](https://github.com/8327593508/Power-BI-Sales-Analysis-Capstone-Project/tree/main/Data).
 
 ## 🚀 How to Use This Project
 1. **Download the Power BI PBIX file** from this repository.
