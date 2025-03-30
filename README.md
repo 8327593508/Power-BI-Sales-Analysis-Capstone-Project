@@ -50,7 +50,9 @@ This project leverages the following technologies for data analysis and visualiz
 - ⭐ **Supplier Ratings**: Rated suppliers based on **delivery time, product quality, and availability**.
 
 ## 📊 Power BI Dashboard Preview
-![Dashboard Screenshot](your_dashboard_image_link_here)
+
+![image](https://github.com/user-attachments/assets/02d86034-5674-408d-919b-360ef60fa0f2)
+
 
 ## 📂 Project Structure
 The repository is organized as follows:
@@ -65,7 +67,7 @@ The repository is organized as follows:
 ```
 
 ## 📥 Dataset Information
-The dataset is sourced from the **Northwind Traders database**, which includes transactional sales data, customer information, order details, and product data. You can find the dataset [here](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs).
+The dataset is sourced from the **Northwind Traders database**, which includes transactional sales data, customer information, order details, and product data. You can find the dataset [here](https://github.com/8327593508/Power-BI-Sales-Analysis-Capstone-Project/tree/main/Data).
 
 ## 🚀 How to Use This Project
 1. **Download the Power BI PBIX file** from this repository.
@@ -76,7 +78,7 @@ The dataset is sourced from the **Northwind Traders database**, which includes t
 ## 📤 Download Project Solution
 You can access and download the full project solution from **Google Drive** using the link below:
 
-🔗 **[Download Solution Files](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+🔗 **[Download Solution Files](https://drive.google.com/drive/u/0/folders/1o-YMB5qYzOdvzNrlgrI4m3FtRTHdE9_i)**
 
 📌 *Note:* Ensure you have the necessary permissions to access the files.
 
@@ -90,7 +92,7 @@ You can access and download the full project solution from **Google Drive** usin
 Hi! I’m **Subham Das**, a passionate **Data Analyst & Data Scientist** specializing in **data visualization, business intelligence, and analytics**. I have experience working with SQL, Power BI, and advanced data modeling techniques.
 
 📌 **Let’s Connect!**
-🔗 [LinkedIn](your_linkedin_url)  |  📧 [Email](your_email_address)  
+🔗 [LinkedIn](https://www.linkedin.com/in/subham-das-6a7809198/?trk=opento_sprofile_details)  |  📧 [Email](subhamd011@gmail.com)  
 
 ---
 ⚡ **If you find this project useful, feel free to fork, star ⭐, or contribute!** 🚀
